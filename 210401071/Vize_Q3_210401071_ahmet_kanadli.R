@@ -1,3 +1,4 @@
+library(httr)
 token_result <- spotify_token() 
 print(token_result)
 
