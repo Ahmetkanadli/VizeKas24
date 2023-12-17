@@ -1,4 +1,4 @@
-Sys.setenv(CLIENT_ID = "e94d967525ef4e18b1ca6e1f09d1504c", CLIENT_SECRET = "0f7bb5791aa54f7cb0eaf9fcd3663560")
+
 
 
 # Spotify'dan client auth token almak için bir fonksiyon
